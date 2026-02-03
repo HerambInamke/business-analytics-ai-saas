@@ -1,0 +1,6 @@
+Customer_ID,Feedback_Type,Rating,Comment,Feature_Mentioned,Priority
+001,Onboarding,2,"Confusing setup process",Setup,High
+002,Feature,4,"AI automation saves time",Automation,Medium
+003,Support,1,"No help documentation",Documentation,High
+004,UI,3,"Dashboard is cluttered",Dashboard,Medium
+005,Value,5,"Great ROI for our team",Overall,Low
